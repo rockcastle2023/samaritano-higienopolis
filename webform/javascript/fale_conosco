@@ -1,0 +1,9 @@
+setTimeout(() => {
+  const interval = setInterval(() => {
+    if (typeof jQuery.fn.select2 === 'function') {
+      jQuery('.js-webform-select2').select2();
+      jQuery(":input[data-inputmask-mask]").inputmask();
+      clearInterval(interval);
+    }  
+  }, 1);
+}, 1);

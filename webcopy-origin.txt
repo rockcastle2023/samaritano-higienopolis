@@ -1,0 +1,1616 @@
+Uri: https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\npm\swiper@8\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/Swiper/8.4.5/swiper-bundle.min.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\ajax\libs\Swiper\8.4.5\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;700&display=swap
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/hind/v16/5aU19_a8oxmIfJpbIRs.ttf
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\s\hind\v16\5aU19_a8oxmIfJpbIRs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/hind/v16/5aU19_a8oxmIfMJaIRs.ttf
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\s\hind\v16\5aU19_a8oxmIfMJaIRs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/hind/v16/5aU19_a8oxmIfNJdIRs.ttf
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\s\hind\v16\5aU19_a8oxmIfNJdIRs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/hind/v16/5aU69_a8oxmIRG4.ttf
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\s\hind\v16\5aU69_a8oxmIRG4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\s\roboto\v32\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\s\roboto\v32\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\s\roboto\v32\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\index.htm
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/acessibilidade-digital
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\acessibilidade-digital.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/agendamento-de-consultas-e-exames
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\agendamento-de-consultas-e-exames.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/banco-de-sangue
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\banco-de-sangue.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/cardiologia
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\cardiologia.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/centro-de-dor
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\centro-de-dor.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/centro-de-endoscopia
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\centro-de-endoscopia.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/centro-de-endoscopia?especialidade=All&sort_by=title&sort_order=ASC&tipo_de_profissional=All&title=&page=2
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\centro-de-endoscopia-2.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/centro-de-endoscopia?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=1
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\centro-de-endoscopia-1.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/centro-de-excelencia-em-nefrologia
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\centro-de-excelencia-em-nefrologia.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/centro-de-excelencia-em-transplantes
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\centro-de-excelencia-em-transplantes.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/centro-de-excelencia-materno-fetal-infantil
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\centro-de-excelencia-materno-fetal-infantil.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/centro-de-infusoes
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\centro-de-infusoes.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/centro-de-parkinson-e-disturbios-do-movimento
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\centro-de-parkinson-e-disturbios-do-movimento.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/centro-de-robotica
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\centro-de-robotica.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/centro-de-tireoide
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\centro-de-tireoide.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/centro-de-traumas
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\centro-de-traumas.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/centros-de-excelencia
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\centros-de-excelencia.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/centros-de-excelencia/neurologia
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\centros-de-excelencia\neurologia.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/certificacoes-e-reconhecimento
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\certificacoes-e-reconhecimento.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/cirurgia-e-internacao/centro-cirurgico
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\cirurgia-e-internacao\centro-cirurgico.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/comite-de-etica-e-pesquisa-cep
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\comite-de-etica-e-pesquisa-cep.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/conforto-e-espaco-medico
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\conforto-e-espaco-medico.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/consultorios
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\consultorios.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/contato
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\contato.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/conveniencias
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\conveniencias.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/convenios
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\convenios.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/credenciamento-medico-e-instrumentador
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\credenciamento-medico-e-instrumentador.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/direitos-e-deveres-do-paciente
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\direitos-e-deveres-do-paciente.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/documentos-e-manuais
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\documentos-e-manuais.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/duvidas-frequentes
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\duvidas-frequentes.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/exames
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\exames.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/exames/resultado-de-exames
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\exames\resultado-de-exames.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/gastroenterologia
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\gastroenterologia.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/gastronomia
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\gastronomia.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/genetica
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\genetica.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/guia-de-internacao
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\guia-de-internacao.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/horarios-e-orientacoes-para-visita
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\horarios-e-orientacoes-para-visita.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/icep
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\icep.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/indicadores-assistenciais
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\indicadores-assistenciais.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/institucional/historia
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\institucional\historia.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/institucional/sobre
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\institucional\sobre.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/instituto-do-figado
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\instituto-do-figado.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/internacao
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\internacao.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/modules/contrib/acquia_cms_toolbar_gin/images/check.svg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\modules\contrib\acquia_cms_toolbar_gin\images\check.svg
+Content Type: image/svg+xml
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/modules/contrib/acquia_cms_toolbar_gin/images/error.svg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\modules\contrib\acquia_cms_toolbar_gin\images\error.svg
+Content Type: image/svg+xml
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/modules/contrib/acquia_cms_toolbar_gin/images/toolbar.svg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\modules\contrib\acquia_cms_toolbar_gin\images\toolbar.svg
+Content Type: image/svg+xml
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/modules/contrib/google_tag/js/gtag.js?siu7hn
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\modules\contrib\google_tag\js\gtag.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/modules/contrib/google_tag/js/gtm.js?siu7hn
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\modules\contrib\google_tag\js\gtm.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/modules/contrib/jquery_ui/assets/vendor/jquery.ui/themes/base/images/ui-icons_444444_256x240.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\modules\contrib\jquery_ui\assets\vendor\jquery.ui\themes\base\images\ui-icons_444444_256x240.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/modules/contrib/jquery_ui/assets/vendor/jquery.ui/themes/base/images/ui-icons_555555_256x240.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\modules\contrib\jquery_ui\assets\vendor\jquery.ui\themes\base\images\ui-icons_555555_256x240.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/modules/contrib/jquery_ui/assets/vendor/jquery.ui/themes/base/images/ui-icons_777620_256x240.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\modules\contrib\jquery_ui\assets\vendor\jquery.ui\themes\base\images\ui-icons_777620_256x240.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/modules/contrib/jquery_ui/assets/vendor/jquery.ui/themes/base/images/ui-icons_777777_256x240.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\modules\contrib\jquery_ui\assets\vendor\jquery.ui\themes\base\images\ui-icons_777777_256x240.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/modules/contrib/jquery_ui/assets/vendor/jquery.ui/themes/base/images/ui-icons_cc0000_256x240.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\modules\contrib\jquery_ui\assets\vendor\jquery.ui\themes\base\images\ui-icons_cc0000_256x240.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/modules/contrib/jquery_ui/assets/vendor/jquery.ui/themes/base/images/ui-icons_ffffff_256x240.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\modules\contrib\jquery_ui\assets\vendor\jquery.ui\themes\base\images\ui-icons_ffffff_256x240.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/nossa-estrutura
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\nossa-estrutura.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/nossa-estrutura/hotelaria
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\nossa-estrutura\hotelaria.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/oncologia
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\oncologia.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/ortopedia
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\ortopedia.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/paraempresas
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\paraempresas.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/pesquisa
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\pesquisa.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/profiles/custom/amil/modules/contrib/better_search/css/images/search-icon.svg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\profiles\custom\amil\modules\contrib\better_search\css\images\search-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/profiles/custom/amil/themes/contrib/cohesion-theme/images/maintenance/maintenance.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\profiles\custom\amil\themes\contrib\cohesion-theme\images\maintenance\maintenance.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/programa-de-relacionamento
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\programa-de-relacionamento.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/pronto-socorro
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\pronto-socorro.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/protocolos-assistenciais
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\protocolos-assistenciais.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/reabilitacao
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\reabilitacao.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/respeito-e-valorizacao-todas-comunidades
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\respeito-e-valorizacao-todas-comunidades.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-04/waze.svg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-04\waze.svg
+Content Type: image/svg+xml
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/banner_desktop.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\banner_desktop.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/banner_notebook.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\banner_notebook.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/banner_tablet.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\banner_tablet.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/Galeria_dos_Paes.jpeg.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\Galeria_dos_Paes.jpeg.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/Galeria_dos_Paes_desktop.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\Galeria_dos_Paes_desktop.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/Guia Banner_1024x600.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\Guia Banner_1024x600.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/Guia Banner_1920x600.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\Guia Banner_1920x600.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/Guia Banner_768x600.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\Guia Banner_768x600.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-1024x400-banco-de-sangue.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-1024x400-banco-de-sangue.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-1024x400-concierge.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-1024x400-concierge.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-1024x400-consultorio-medico.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-1024x400-consultorio-medico.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-1024x400-duvidas-frequentes.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-1024x400-duvidas-frequentes.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-1024x400-fachada.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-1024x400-fachada.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-1024x400-respeito-e-valorizacao.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-1024x400-respeito-e-valorizacao.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-1024x600-centro-cirurgico.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-1024x600-centro-cirurgico.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-1024x600-documentos-e-manuais.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-1024x600-documentos-e-manuais.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/Hospital-higienopolis-1024x600-exame-de-imagem.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\Hospital-higienopolis-1024x600-exame-de-imagem.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-1680x400-banco-de-sangue.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-1680x400-banco-de-sangue.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-1680x400-concierge.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-1680x400-concierge.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-1680x400-consultorio-medico.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-1680x400-consultorio-medico.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-1680x400-fachada.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-1680x400-fachada.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-1680x400-respeito-e-valorizacao.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-1680x400-respeito-e-valorizacao.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-1680x600-centro-cirurgico.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-1680x600-centro-cirurgico.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-1920x400-duvidas-frequentes.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-1920x400-duvidas-frequentes.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-1920x600-documentos-e-manuais.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-1920x600-documentos-e-manuais.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/Hospital-higienopolis-1920x600-exame-de-imagem.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\Hospital-higienopolis-1920x600-exame-de-imagem.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-768x400-banco-de-sangue.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-768x400-banco-de-sangue.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-768x400-concierge.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-768x400-concierge.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-768x400-consultorio-medico.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-768x400-consultorio-medico.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-768x400-duvidas-frequentes.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-768x400-duvidas-frequentes.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-768x400-fachada.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-768x400-fachada.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-768x400-respeito-e-valorizacao.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-768x400-respeito-e-valorizacao.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-768x600-centro-cirurgico.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-768x600-centro-cirurgico.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-768x600-documentos-e-manuais.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-768x600-documentos-e-manuais.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/Hospital-higienopolis-768x600-exame-de-imagem.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\Hospital-higienopolis-768x600-exame-de-imagem.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-cardiologia-1024x600-batidas-coracao.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-cardiologia-1024x600-batidas-coracao.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-cardiologia-1920x600-batidas-coracao.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-cardiologia-1920x600-batidas-coracao.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-cardiologia-768x600-batidas-coracao.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-cardiologia-768x600-batidas-coracao.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-centro-de-dor-1024x600-exame-dor.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-centro-de-dor-1024x600-exame-dor.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-centro-de-dor-1920x600-exame-dor.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-centro-de-dor-1920x600-exame-dor.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-centro-de-dor-768x400-exame-dor.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-centro-de-dor-768x400-exame-dor.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-centro-de-robotica-1024x400-robo.jpg.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-centro-de-robotica-1024x400-robo.jpg.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-centro-de-robotica-1920x400-robo.jpg.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-centro-de-robotica-1920x400-robo.jpg.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-centro-de-robotica-768x400-robo.jpg.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-centro-de-robotica-768x400-robo.jpg.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-centro-de-tireoide-1024x600-exame-tireoide.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-centro-de-tireoide-1024x600-exame-tireoide.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-centro-de-tireoide-1920x600-exame-tireoide.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-centro-de-tireoide-1920x600-exame-tireoide.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-centro-de-tireoide-768x600-exame-tireoide.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-centro-de-tireoide-768x600-exame-tireoide.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-direitos-e-deveres-1024x400-pessoas.jpg.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-direitos-e-deveres-1024x400-pessoas.jpg.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-direitos-e-deveres-1920x400-pessoas.jpg.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-direitos-e-deveres-1920x400-pessoas.jpg.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-direitos-e-deveres-768x400-pessoas.jpg.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-direitos-e-deveres-768x400-pessoas.jpg.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-espaco-e-conforto-medico-1024x400-medico.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-espaco-e-conforto-medico-1024x400-medico.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-espaco-e-conforto-medico-1920x400-medico.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-espaco-e-conforto-medico-1920x400-medico.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-espaco-e-conforto-medico-768x400-medico.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-espaco-e-conforto-medico-768x400-medico.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-gastroenterologia-1024x600-endoscopia.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-gastroenterologia-1024x600-endoscopia.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-gastroenterologia-1920x600-endoscopia.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-gastroenterologia-1920x600-endoscopia.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-gastroenterologia-768x600-endoscopia.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-gastroenterologia-768x600-endoscopia.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-ginecologia-e-perinatologia-1024x600-familia.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-ginecologia-e-perinatologia-1024x600-familia.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-ginecologia-e-perinatologia-1920x600-familia.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-ginecologia-e-perinatologia-1920x600-familia.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-ginecologia-e-perinatologia-768x600-familia.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-ginecologia-e-perinatologia-768x600-familia.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-horarios-e-orientacoes-1024x400-visitas.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-horarios-e-orientacoes-1024x400-visitas.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-horarios-e-orientacoes-1920x400-visitas.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-horarios-e-orientacoes-1920x400-visitas.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-horarios-e-orientacoes-756x400-visitas.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-horarios-e-orientacoes-756x400-visitas.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-indicadores-assistenciais-1024x400-grafico.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-indicadores-assistenciais-1024x400-grafico.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-indicadores-assistenciais-1680x400-grafico.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-indicadores-assistenciais-1680x400-grafico.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-indicadores-assistenciais-768x400-grafico.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-indicadores-assistenciais-768x400-grafico.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-internacao-1024x400-sala-cirurgica.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-internacao-1024x400-sala-cirurgica.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-internacao-1920x400-sala-cirurgica.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-internacao-1920x400-sala-cirurgica.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-internacao-768x400-sala-cirurgica.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-internacao-768x400-sala-cirurgica.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-medico-e-instrumentador-1024x400-medicos_v2_1.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-medico-e-instrumentador-1024x400-medicos_v2_1.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-medico-e-instrumentador-1920x400-medicos_v2.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-medico-e-instrumentador-1920x400-medicos_v2.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-medico-e-instrumentador-768x400-medicos_v2.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-medico-e-instrumentador-768x400-medicos_v2.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-medico-e-instrumentador-768x400-medicos_v2_1.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-medico-e-instrumentador-768x400-medicos_v2_1.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-neurologia-e-neurocirurgia-1024x600-exame.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-neurologia-e-neurocirurgia-1024x600-exame.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-neurologia-e-neurocirurgia-1920x600-exame.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-neurologia-e-neurocirurgia-1920x600-exame.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-neurologia-e-neurocirurgia-768x600-exame.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-neurologia-e-neurocirurgia-768x600-exame.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-ortopedia-1024x600-paciente-ortopedico.jpg.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-ortopedia-1024x600-paciente-ortopedico.jpg.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-ortopedia-1920x600-paciente-ortopedico.jpg.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-ortopedia-1920x600-paciente-ortopedico.jpg.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-ortopedia-768x600-paciente-ortopedico.jpg.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-ortopedia-768x600-paciente-ortopedico.jpg.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-para-medicos-1024x600-medico.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-para-medicos-1024x600-medico.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-para-medicos-1920x600-medico.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-para-medicos-1920x600-medico.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-para-medicos-768x600-medico.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-para-medicos-768x600-medico.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-pronto-socorro-1024x400-fachada.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-pronto-socorro-1024x400-fachada.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-pronto-socorro-1680x400-fachada.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-pronto-socorro-1680x400-fachada.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-pronto-socorro-420x360-centro-de-trauma.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-pronto-socorro-420x360-centro-de-trauma.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-pronto-socorro-420x360-emergencia-ortopedia.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-pronto-socorro-420x360-emergencia-ortopedia.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-pronto-socorro-420x360-estrutura-cardiologia.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-pronto-socorro-420x360-estrutura-cardiologia.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-pronto-socorro-420x360-neurologia.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-pronto-socorro-420x360-neurologia.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-pronto-socorro-420x360-uti-movel_0.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-pronto-socorro-420x360-uti-movel_0.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-pronto-socorro-768x400-fachada.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-pronto-socorro-768x400-fachada.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-qualidade-e-excelencia-1024x600-maos.jpg.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-qualidade-e-excelencia-1024x600-maos.jpg.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-qualidade-e-excelencia-1680x600-maos.jpg.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-qualidade-e-excelencia-1680x600-maos.jpg.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/hospital-higienopolis-qualidade-e-excelencia-768x600-maos.jpg.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\hospital-higienopolis-qualidade-e-excelencia-768x600-maos.jpg.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/SAM-PAU_coes_hero_1024x400_comprimido.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\SAM-PAU_coes_hero_1024x400_comprimido.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/SAM-PAU_coes_hero_1920x400_comprimido.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\SAM-PAU_coes_hero_1920x400_comprimido.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/SAM-PAU_coes_hero_768x400_comprimido.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\SAM-PAU_coes_hero_768x400_comprimido.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/Solicitacao_de_cirurgia_eletiva_manual-1.pdf
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\Solicitacao_de_cirurgia_eletiva_manual-1.pdf
+Content Type: application/pdf
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-06/TERMO_DE_CONSENTIMENTO_INFORMADO_PARA_CIRURGIAS_HOSP_SAMARITANO-1.pdf
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-06\TERMO_DE_CONSENTIMENTO_INFORMADO_PARA_CIRURGIAS_HOSP_SAMARITANO-1.pdf
+Content Type: application/pdf
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/1.hospital-higienopolis-768x400-resultado-de-exames.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\1.hospital-higienopolis-768x400-resultado-de-exames.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/1.hospital-higienopolis-768x400-traumatologia.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\1.hospital-higienopolis-768x400-traumatologia.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/1024x600_15.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\1024x600_15.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/1024x600_Banner_Centro_Endoscopia.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\1024x600_Banner_Centro_Endoscopia.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/1024x600_Exames_de_Imagem.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\1024x600_Exames_de_Imagem.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/1024x600_Nucleo_Parkinson.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\1024x600_Nucleo_Parkinson.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/1920x600_15.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\1920x600_15.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/1920x600_Banner_Centro_Endoscopia.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\1920x600_Banner_Centro_Endoscopia.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/1920x600_Exames_de_Imagem.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\1920x600_Exames_de_Imagem.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/1920x600_Nucleo_Parkinson.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\1920x600_Nucleo_Parkinson.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/2.hospital-higienopolis-1024x400-resultado-de-exames.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\2.hospital-higienopolis-1024x400-resultado-de-exames.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/2.hospital-higienopolis-1024x400-traumatologia.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\2.hospital-higienopolis-1024x400-traumatologia.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/4.hospital-higienopolis-1680x400-resultado-de-exames.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\4.hospital-higienopolis-1680x400-resultado-de-exames.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/4.hospital-higienopolis-1680x400-traumatologia.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\4.hospital-higienopolis-1680x400-traumatologia.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/768x400_12.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\768x400_12.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/768x400_Exames_de_Imagem.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\768x400_Exames_de_Imagem.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/768x400_Nucleo_Parkinson.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\768x400_Nucleo_Parkinson.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/768x600_Banner_Centro_Endoscopia.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\768x600_Banner_Centro_Endoscopia.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/banner-desk-etica-e-pesquisa.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\banner-desk-etica-e-pesquisa.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/banner-desk-icep.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\banner-desk-icep.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/banner-desk-pesquisa.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\banner-desk-pesquisa.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/banner-mob-etica-e-pesquisa.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\banner-mob-etica-e-pesquisa.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/banner-mob-icep.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\banner-mob-icep.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/banner-mob-pesquisa.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\banner-mob-pesquisa.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/Cardiologia-Desktop_420x360.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\Cardiologia-Desktop_420x360.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/desktop - Samaritano_2.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\desktop - Samaritano_2.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/desktop_whatsapp_op02.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\desktop_whatsapp_op02.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/Ginecologia-Obstetricia-e-Perinatologia-420x360.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\Ginecologia-Obstetricia-e-Perinatologia-420x360.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/hospital-higienopolis-1024x400-UTI.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\hospital-higienopolis-1024x400-UTI.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/hospital-higienopolis-1680x400-UTI.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\hospital-higienopolis-1680x400-UTI.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/hospital-higienopolis-768x400-UTI.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\hospital-higienopolis-768x400-UTI.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/hospital-higienopolis-genetica-1024x600-medica.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\hospital-higienopolis-genetica-1024x600-medica.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/hospital-higienopolis-genetica-1920x600-medica.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\hospital-higienopolis-genetica-1920x600-medica.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/hospital-higienopolis-genetica-768x600-medica.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\hospital-higienopolis-genetica-768x600-medica.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/hospital-higienopolis-home-420x260-gastroenterologia.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\hospital-higienopolis-home-420x260-gastroenterologia.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/hospital-higienopolis-home-420x260-neurologia-e-neurocirurgia.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\hospital-higienopolis-home-420x260-neurologia-e-neurocirurgia.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/hospital-higienopolis-home-420x260-oncologia.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\hospital-higienopolis-home-420x260-oncologia.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/hospital-higienopolis-home-420x260-ortopedia.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\hospital-higienopolis-home-420x260-ortopedia.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/hospital-higienopolis-home-420x260-urologia.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\hospital-higienopolis-home-420x260-urologia.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/hospital-higienopolis-medico-e-instrumentador-1024x400-medicos_v2.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\hospital-higienopolis-medico-e-instrumentador-1024x400-medicos_v2.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/hospital-higienopolis-medico-e-instrumentador-1680x400-medicos_v2.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\hospital-higienopolis-medico-e-instrumentador-1680x400-medicos_v2.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/hospital-higienopolis-para-medicos-1024x600-medico.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\hospital-higienopolis-para-medicos-1024x600-medico.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/hospital-higienopolis-para-medicos-1920x600-medico.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\hospital-higienopolis-para-medicos-1920x600-medico.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/hospital-higienopolis-para-medicos-768x600-medico.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\hospital-higienopolis-para-medicos-768x600-medico.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/hospital-higienopolis-sobre-1920x600-predio-hospital.jpg.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\hospital-higienopolis-sobre-1920x600-predio-hospital.jpg.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/hospital-higienopolis-sobre-768x400-predio-hospital.jpg.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\hospital-higienopolis-sobre-768x400-predio-hospital.jpg.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/hospital-higienopolis-urologia-1024x600-exame.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\hospital-higienopolis-urologia-1024x600-exame.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/hospital-higienopolis-urologia-1920x600-exame.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\hospital-higienopolis-urologia-1920x600-exame.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/hospital-higienopolis-urologia-768x600-exame.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\hospital-higienopolis-urologia-768x600-exame.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/mobile - Samaritano_2.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\mobile - Samaritano_2.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-07/mobile_whatsapp_op02_sama_higi.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-07\mobile_whatsapp_op02_sama_higi.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-08/1680x600_Exames_de_Imagem.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-08\1680x600_Exames_de_Imagem.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-08/bannerReabilitacaoIntestinalDesktop.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-08\bannerReabilitacaoIntestinalDesktop.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-08/bannerReabilitacaoIntestinalMob.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-08\bannerReabilitacaoIntestinalMob.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-08/notebook - Samaritano.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-08\notebook - Samaritano.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-08/notebook_whatsapp_op02.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-08\notebook_whatsapp_op02.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-08/tablet_awhatsapp_op02.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-08\tablet_awhatsapp_op02.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-10/nefroBannerNewDesk.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-10\nefroBannerNewDesk.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-10/nefroBannerNewMob.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-10\nefroBannerNewMob.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-11/BANNER-02.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-11\BANNER-02.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-11/BANNER-03.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-11\BANNER-03.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-11/BANNER-04.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-11\BANNER-04.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-11/bannerCentroTraumaDesk.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-11\bannerCentroTraumaDesk.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2023-11/bannerCentroTraumasMob.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2023-11\bannerCentroTraumasMob.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-01/banner1-desk.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-01\banner1-desk.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-01/banner1-mob.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-01\banner1-mob.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-01/banner1-note.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-01\banner1-note.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-01/banner1-tab.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-01\banner1-tab.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-01/banner2-desk.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-01\banner2-desk.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-01/banner2-mob.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-01\banner2-mob.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-01/banner2-note.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-01\banner2-note.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-01/banner2-tab.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-01\banner2-tab.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-01/banner3-desk.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-01\banner3-desk.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-01/banner3-mob.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-01\banner3-mob.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-01/banner3-note.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-01\banner3-note.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-01/banner3-tab.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-01\banner3-tab.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-01/banner4-desk.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-01\banner4-desk.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-01/banner4-mob.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-01\banner4-mob.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-01/banner4-note.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-01\banner4-note.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-01/banner4-tab.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-01\banner4-tab.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-01/banner5-desk.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-01\banner5-desk.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-01/banner5-mob.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-01\banner5-mob.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-01/banner5-note.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-01\banner5-note.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-01/banner5-tab.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-01\banner5-tab.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-01/tablet - Samaritano.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-01\tablet - Samaritano.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-03/9W2A3389 copy.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-03\9W2A3389 copy.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-03/Banner IDF_desktop.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-03\Banner IDF_desktop.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-03/Banner IDF_mobile.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-03\Banner IDF_mobile.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-03/Banner IDF_notebook.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-03\Banner IDF_notebook.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-03/Banner IDF_tablet.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-03\Banner IDF_tablet.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-03/banner6-note---EDIT.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-03\banner6-note---EDIT.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-03/HERO-NOTEBOOK-1680x600-EDIT.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-03\HERO-NOTEBOOK-1680x600-EDIT.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-03/hospital-higienopolis-sobre-1024x600-predio-hospital.jpg.jpg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-03\hospital-higienopolis-sobre-1024x600-predio-hospital.jpg.jpg
+Content Type: image/jpeg
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-05/banner-empresas-desk.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-05\banner-empresas-desk.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-05/banner-empresas-mob.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-05\banner-empresas-mob.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-06/BANNER 30 ANOS 1024X600 (3).png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-06\BANNER 30 ANOS 1024X600 (3).png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-06/BANNER 30 ANOS 1024X600 (4).png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-06\BANNER 30 ANOS 1024X600 (4).png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-06/BANNER 30 ANOS 1680X600 (3).png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-06\BANNER 30 ANOS 1680X600 (3).png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-06/BANNER 30 ANOS 1680X600 (4).png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-06\BANNER 30 ANOS 1680X600 (4).png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-06/BANNER 30 ANOS 1920X600 (3).png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-06\BANNER 30 ANOS 1920X600 (3).png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-06/BANNER 30 ANOS 1920X600 (4).png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-06\BANNER 30 ANOS 1920X600 (4).png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-06/BANNER 30 ANOS 768X600 (3).png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-06\BANNER 30 ANOS 768X600 (3).png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/2024-06/BANNER 30 ANOS 768X600 (4).png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\2024-06\BANNER 30 ANOS 768X600 (4).png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/cohesion/assets/video/mejs-controls.svg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\cohesion\assets\video\mejs-controls.svg
+Content Type: image/svg+xml
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/cohesion/icomoon.eot
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\cohesion\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/cohesion/icomoon.eot?
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\cohesion\icomoon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/cohesion/icomoon.ttf
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\cohesion\icomoon.ttf
+Content Type: font/ttf
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/cohesion/icomoon.woff
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\cohesion\icomoon.woff
+Content Type: font/woff
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/cohesion/icomoon.woff2
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\cohesion\icomoon.woff2
+Content Type: font/woff2
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/css/css_-QaPBnbXh_6tBGlKLkdY5AaMsumxzoDatgSTUmBKyQQ.css
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\css\css_-QaPBnbXh_6tBGlKLkdY5AaMsumxzoDatgSTUmBKyQQ.css
+Content Type: text/css
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/css/css_01ku_19JTiLysgIQLbpn5Bt2hNYCyGFDPB98lyNUGCc.css
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\css\css_01ku_19JTiLysgIQLbpn5Bt2hNYCyGFDPB98lyNUGCc.css
+Content Type: text/css
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/css/css_2FTRrr8dXCAoNXSOAyTiAIhyXrBRDDAosOHRC3KEwgM.css
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\css\css_2FTRrr8dXCAoNXSOAyTiAIhyXrBRDDAosOHRC3KEwgM.css
+Content Type: text/css
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/css/css_7sy6aRy4qx3cue97kgTsZoNF_JSAueTe_0Mjuueco78.css
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\css\css_7sy6aRy4qx3cue97kgTsZoNF_JSAueTe_0Mjuueco78.css
+Content Type: text/css
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/css/css_csDsrOhtUHxYnBzied_jVip8lUsB7gNK4_CEiFAaBWQ.css
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\css\css_csDsrOhtUHxYnBzied_jVip8lUsB7gNK4_CEiFAaBWQ.css
+Content Type: text/css
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/css/css_emXp4iMxfVGH1s8SH9pRwZErXb7WdNvylO6CW1idsr0.css
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\css\css_emXp4iMxfVGH1s8SH9pRwZErXb7WdNvylO6CW1idsr0.css
+Content Type: text/css
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/css/css_KjTkbdU26AMX8KfFrARXHVD4r8ipa4xt9iBxkoq1uaI.css
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\css\css_KjTkbdU26AMX8KfFrARXHVD4r8ipa4xt9iBxkoq1uaI.css
+Content Type: text/css
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/css/css_OeJ7juNyK9DGjEbLCFbXPZ7WwqBowspeunc0oGJlKVI.css
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\css\css_OeJ7juNyK9DGjEbLCFbXPZ7WwqBowspeunc0oGJlKVI.css
+Content Type: text/css
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/css/css_QL_zQI-zOeSNnfJjtNcfuaBDJEVXNFZ-rSpg3B7ggXA.css
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\css\css_QL_zQI-zOeSNnfJjtNcfuaBDJEVXNFZ-rSpg3B7ggXA.css
+Content Type: text/css
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/css/css_qw3S4Xd2xYRykyjVviYHKDpMnF_K9PgmEb127IM_QZg.css
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\css\css_qw3S4Xd2xYRykyjVviYHKDpMnF_K9PgmEb127IM_QZg.css
+Content Type: text/css
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/css/css_XHOmcjiWxnNU95cNt1BlfDdQNRkPxVCByk7z_DTZpw4.css
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\css\css_XHOmcjiWxnNU95cNt1BlfDdQNRkPxVCByk7z_DTZpw4.css
+Content Type: text/css
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/favicon.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\favicon.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/Hospital Samaritano RGB horizontal-01.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\Hospital Samaritano RGB horizontal-01.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/Hospital Samaritano RGB vertical-01.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\Hospital Samaritano RGB vertical-01.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_22W9Mr7eq3GWCfczqdsPPznizif04lrfi4EXyr2ETB4.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_22W9Mr7eq3GWCfczqdsPPznizif04lrfi4EXyr2ETB4.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_2UNd9j3sOueVToQcPtbq5Y1jYl8BnIxI9bnm_OG8Ey8.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_2UNd9j3sOueVToQcPtbq5Y1jYl8BnIxI9bnm_OG8Ey8.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_37RjNhznv0iKBnbaohO_82G19n7IXPMkM1qmvjNNqAk.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_37RjNhznv0iKBnbaohO_82G19n7IXPMkM1qmvjNNqAk.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_4pyV3VKbAWQp-9x7vfqIfjBMyPhy8YsKDuRSjjUDpTI.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_4pyV3VKbAWQp-9x7vfqIfjBMyPhy8YsKDuRSjjUDpTI.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_5VieEUWIticY46s7SkEQ9X6F3SU6I8mxzHPIONom1JA.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_5VieEUWIticY46s7SkEQ9X6F3SU6I8mxzHPIONom1JA.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_6FYYQ0GcBCuzsI8dPuR0swC_GYYt5sqLJLhOLAOitB4.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_6FYYQ0GcBCuzsI8dPuR0swC_GYYt5sqLJLhOLAOitB4.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_6NhK778Sj5q5_lJ-eqRJm09xjBEUN_aFSLZQziUOhkM.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_6NhK778Sj5q5_lJ-eqRJm09xjBEUN_aFSLZQziUOhkM.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_81kCaAn1ZzD4HIDKeRoxsIsvZSn4nD1ccrrwat9CJ0I.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_81kCaAn1ZzD4HIDKeRoxsIsvZSn4nD1ccrrwat9CJ0I.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_88NjxJIvB_wSjRSYPUGb-YwVaQrxhWVAZNw88F8rb0c.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_88NjxJIvB_wSjRSYPUGb-YwVaQrxhWVAZNw88F8rb0c.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_9Tf1EL_5uJAUiA3vtYbYVXmxbjDsKNkgVs-6GgKv8gU.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_9Tf1EL_5uJAUiA3vtYbYVXmxbjDsKNkgVs-6GgKv8gU.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_dLby8xSkunfcSEweGJg6Fw0NBTBDw8OitYFKsWPC8Y8.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_dLby8xSkunfcSEweGJg6Fw0NBTBDw8OitYFKsWPC8Y8.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_ERXTsd7wlpzAxryd6KuZW3ffIC3yFRkZlJiqnvPC6xU.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_ERXTsd7wlpzAxryd6KuZW3ffIC3yFRkZlJiqnvPC6xU.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_gA1S-xP57TwS0FQlGEqqyTj4qWd2i1yI__yQblzCTes.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_gA1S-xP57TwS0FQlGEqqyTj4qWd2i1yI__yQblzCTes.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_lBi1JY-mOrjn8tas5aSsiHKnMDBTVkhUOkrP5JF2W8o.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_lBi1JY-mOrjn8tas5aSsiHKnMDBTVkhUOkrP5JF2W8o.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_LuckdSZj8kkBZzMnVsheyVE--_EMyOYs1Bq6n93RfIE.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_LuckdSZj8kkBZzMnVsheyVE--_EMyOYs1Bq6n93RfIE.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_N6OjEsWeBtE21AWiuveQw2ErBm0DxlgeiocQVoLPViQ.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_N6OjEsWeBtE21AWiuveQw2ErBm0DxlgeiocQVoLPViQ.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_n9P9_KZ3yyDAqjfsIC0xCqxbXhv4nWarseRECkswTOQ.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_n9P9_KZ3yyDAqjfsIC0xCqxbXhv4nWarseRECkswTOQ.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_NSH39ezV9W1xGYU8zmlxrH6W9N92O44pWMKPNLYuM2w.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_NSH39ezV9W1xGYU8zmlxrH6W9N92O44pWMKPNLYuM2w.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_nsnFQa6zsQlArX57a7-BRnfTuvRDYjdgiP_yPvpTwfA.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_nsnFQa6zsQlArX57a7-BRnfTuvRDYjdgiP_yPvpTwfA.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_OL5AIloX2_7INDjsG9QiBJLoHHoPS8R7dxXhYWDbYBQ.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_OL5AIloX2_7INDjsG9QiBJLoHHoPS8R7dxXhYWDbYBQ.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_q6bQD-YkDxhjnBcBEOV_vWM4S3M5FVgLBAxDTVI8m78.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_q6bQD-YkDxhjnBcBEOV_vWM4S3M5FVgLBAxDTVI8m78.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_RDGxKaH-lU939MKWbPjkroDADahkBKQBeiDl5pertT0.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_RDGxKaH-lU939MKWbPjkroDADahkBKQBeiDl5pertT0.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_sa-wNvDY88Re1TabIElRQLlCOM7DwvmAHp7BMoKXogI.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_sa-wNvDY88Re1TabIElRQLlCOM7DwvmAHp7BMoKXogI.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_skHv1dmd1d9jT7s5lLjinmxFac7LvIt0wMXwSyBlKI8.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_skHv1dmd1d9jT7s5lLjinmxFac7LvIt0wMXwSyBlKI8.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_tk20FNdpKqhxDakpffrVOFnoLy7GbaFPY_IjYNPDuok.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_tk20FNdpKqhxDakpffrVOFnoLy7GbaFPY_IjYNPDuok.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_tq5YbnLeyBSSmToFh_qeP8GbXv_4pZWQ1JpNbyTTh6Y.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_tq5YbnLeyBSSmToFh_qeP8GbXv_4pZWQ1JpNbyTTh6Y.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_V0GH6bPfu8JQQcKlvHR0pMWaJXp08Kd461ir1kQfTGQ.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_V0GH6bPfu8JQQcKlvHR0pMWaJXp08Kd461ir1kQfTGQ.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_VYPNliYMy4x7wEXNFOUhlo7b4l1KrXSBZKbiv5HIH0o.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_VYPNliYMy4x7wEXNFOUhlo7b4l1KrXSBZKbiv5HIH0o.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_WnPcNyu57BVmC5JRdDIel_cLuJpWZQUwPa4uwIS0VT8.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_WnPcNyu57BVmC5JRdDIel_cLuJpWZQUwPa4uwIS0VT8.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_WQZ-NuOrdVxp52vfwne8rLxtCQ0wIbHbDSbk8x26K6U.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_WQZ-NuOrdVxp52vfwne8rLxtCQ0wIbHbDSbk8x26K6U.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_x4lxlqUUIL9rXt2zqkdC0afWywsmeVhKV3iX2jTmisk.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_x4lxlqUUIL9rXt2zqkdC0afWywsmeVhKV3iX2jTmisk.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js_zAeyTYG8rkedJ77KWJqpmIHBBwUqHPuebDbrz11jrhY.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js_zAeyTYG8rkedJ77KWJqpmIHBBwUqHPuebDbrz11jrhY.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js__KKuqkx7fVfoVAdrm8jytVktyCF_ywcHM7xz3VxTT9c.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js__KKuqkx7fVfoVAdrm8jytVktyCF_ywcHM7xz3VxTT9c.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/js/js__uDC3oq_d3VwJbDbXGRyfAPYX-uLMPnuU6gpvBA_wgg.js
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\js\js__uDC3oq_d3VwJbDbXGRyfAPYX-uLMPnuU6gpvBA_wgg.js
+Content Type: text/javascript
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sites/samaritanohigienopolisstudio/files/logo-samaritano.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sites\samaritanohigienopolisstudio\files\logo-samaritano.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=1
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-1.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=10
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-10.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=11
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-11.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=12
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-12.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=13
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-13.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=14
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-14.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=15
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-15.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=16
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-16.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=17
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-17.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=18
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-18.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=19
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-19.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=2
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-2.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=20
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-20.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=21
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-21.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=22
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-22.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=23
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-23.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=24
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-24.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=25
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-25.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=26
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-26.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=27
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-27.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=28
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-28.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=29
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-29.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=3
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-3.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=30
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-30.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=31
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-31.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=32
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-32.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=33
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-33.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=34
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-34.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=35
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-35.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=36
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-36.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=37
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-37.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=38
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-38.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=39
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-39.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=4
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-4.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=40
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-40.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=41
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-41.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=42
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-42.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=43
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-43.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=44
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-44.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=45
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-45.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=46
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-46.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=47
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-47.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=5
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-5.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=6
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-6.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=7
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-7.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=8
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-8.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/equipe-medica?tipo_de_profissional=All&title=&especialidade=All&sort_by=title&sort_order=ASC&page=9
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\equipe-medica-9.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/sobre/qualidade-e-excelencia
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\sobre\qualidade-e-excelencia.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/themes/contrib/gin/dist/media/sprite.svg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\themes\contrib\gin\dist\media\sprite.svg
+Content Type: image/svg+xml
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/themes/contrib/stable/images/core/icons/000000/move.svg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\themes\contrib\stable\images\core\icons\000000\move.svg
+Content Type: image/svg+xml
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/themes/contrib/stable/images/core/icons/73b355/check.svg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\themes\contrib\stable\images\core\icons\73b355\check.svg
+Content Type: image/svg+xml
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/themes/contrib/stable/images/core/icons/787878/move.svg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\themes\contrib\stable\images\core\icons\787878\move.svg
+Content Type: image/svg+xml
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/themes/contrib/stable/images/core/icons/787878/twistie-down.svg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\themes\contrib\stable\images\core\icons\787878\twistie-down.svg
+Content Type: image/svg+xml
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/themes/contrib/stable/images/core/icons/787878/twistie-up.svg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\themes\contrib\stable\images\core\icons\787878\twistie-up.svg
+Content Type: image/svg+xml
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/themes/contrib/stable/images/core/icons/e29700/warning.svg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\themes\contrib\stable\images\core\icons\e29700\warning.svg
+Content Type: image/svg+xml
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/themes/contrib/stable/images/core/icons/e32700/error.svg
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\themes\contrib\stable\images\core\icons\e32700\error.svg
+Content Type: image/svg+xml
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/themes/contrib/stable/images/core/loading-small.gif
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\themes\contrib\stable\images\core\loading-small.gif
+Content Type: image/gif
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/themes/contrib/stable/images/core/throbber-active.gif
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\themes\contrib\stable\images\core\throbber-active.gif
+Content Type: image/gif
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/themes/contrib/stable/images/core/throbber-inactive.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\themes\contrib\stable\images\core\throbber-inactive.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/themes/contrib/stable/images/core/tree-bottom.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\themes\contrib\stable\images\core\tree-bottom.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/themes/contrib/stable/images/core/tree.png
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\themes\contrib\stable\images\core\tree.png
+Content Type: image/png
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/transplante-de-medula-ossea
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\transplante-de-medula-ossea.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/transplante-hepatico
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\transplante-hepatico.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/transplante-renal
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\transplante-renal.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/traumatologia
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\traumatologia.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/unidades-de-terapia-intensiva
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\unidades-de-terapia-intensiva.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/urologia
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\urologia.html
+Content Type: text/html
+
+Uri: https://higienopolis.hospitalsamaritano.com.br/webform/javascript/fale_conosco?siu7hn
+File Name: D:\Sites\higienopolis.hospitalsamaritano.com.br\webform\javascript\fale_conosco
+Content Type: text/javascript
+
